@@ -1,4 +1,4 @@
-k#from lib import Funcionabilidades
+#from lib import Funcionabilidades
 from lib import Interface
 from time import sleep
 from datetime import date
